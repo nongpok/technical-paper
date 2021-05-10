@@ -34,4 +34,5 @@ A combination of a common data model, a common command set, and a messaging infr
 
 
 ## References
+- https://www.mulesoft.com/platform/enterprise-integration
 
