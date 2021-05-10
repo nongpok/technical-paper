@@ -22,5 +22,5 @@ MQ allows decoupling between upstream and downstream applications. The upstream 
 
 
 ## Popular Tools
-- [MuleSoft Anypoint Platform] (https://www.mulesoft.com/platform/enterprise-integration)
+- [MuleSoft Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration)
 
