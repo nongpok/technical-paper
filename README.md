@@ -3,13 +3,13 @@ A Message Queue(MQ) is a software engineering component used for communication b
 
 
 ## Features
--Asynchronous Communications Protocol
--Message Encryption
--Message storage, retrieval, and deletion
--Permissions for users and software
--System decoupling
--Data error reduction
--Cloud-based or on-premises installation
+- Asynchronous Communications Protocol
+- Message Encryption
+- Message storage, retrieval, and deletion
+- Permissions for users and software
+- System decoupling
+- Data error reduction
+- Cloud-based or on-premises installation
 
 
 ## Why Message Queues are used?
