@@ -34,5 +34,8 @@ A combination of a common data model, a common command set, and a messaging infr
 
 
 ## References
-- https://www.mulesoft.com/platform/enterprise-integration
+- https://www.cloudamqp.com/blog/what-is-message-queuing.html
+- https://aws.amazon.com/message-queue/
+- https://www.g2.com/categories/message-queue-mq
+- https://www.ibm.com/cloud/learn/message-queues
 
