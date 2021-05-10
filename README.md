@@ -28,3 +28,10 @@ MQ allows decoupling between upstream and downstream applications. The upstream 
 - [Apache Kafka](https://kafka.apache.org/intro)
 - [Rabbit MQ](https://www.rabbitmq.com/)
 
+
+## Enterprise Message Bus
+A combination of a common data model, a common command set, and a messaging infrastructure to allow different systems to communicate through a shared set of interfaces. This is analogous to a communications bus in a computer system, which serves as the focal point for communication between the CPU, main memory, and peripherals.
+
+
+## References
+
