@@ -23,4 +23,8 @@ MQ allows decoupling between upstream and downstream applications. The upstream 
 
 ## Popular Tools
 - [MuleSoft Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration)
+- [IBM MQ](https://www.ibm.com/products/mq)
+- [Azure Scheduler](https://azure.microsoft.com/en-us/services/logic-apps/)
+- [Apache Kafka](https://kafka.apache.org/intro)
+- [Rabbit MQ](https://www.rabbitmq.com/)
 
